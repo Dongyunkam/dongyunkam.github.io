@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a 
+I am a postdoc researcher at EPIC lab in POSTECH.
