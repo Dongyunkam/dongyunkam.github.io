@@ -25,11 +25,15 @@ Education
 
 Experience
 ======
-* Postdoctoral Researcher, POSTECH Institute of Artificial Intelligence, Republic of Korea  
+* Postdoctoral Researcher
+  POSTECH Institute of Artificial Intelligence, Republic of Korea  
   Aug. 2024 - Present 
-* Visiting Researcher, Dept. EECS, University of Michigan, Ann Arbor, USA  
+* Visiting Researcher  
+  Dept. EECS, University of Michigan, Ann Arbor, USA  
   Mar. 2023 - Sep. 2023
-* Research Assistant, Dept. Electrical Engineering, POSTECH, Republic of Korea  
+* Research Assistant
+  Dept. Electrical Engineering, POSTECH, Republic of Korea  
   Jan. 2018 - Aug. 2024 
-* Internship, Alticast, Seoul, Republic of Korea  
+* Internship
+  Alticast, Seoul, Republic of Korea  
   Jan. 2017 - Jun. 2017 
