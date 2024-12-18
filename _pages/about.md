@@ -25,7 +25,7 @@ Education
 
 Experience
 ======
-* Postdoctoral Researcher
+* Postdoctoral Researcher  
   POSTECH Institute of Artificial Intelligence, Republic of Korea  
   Aug. 2024 - Present 
 * Visiting Researcher  
