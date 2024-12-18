@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    :
+title                    : "Dongyun's website"
 title_separator          : "-"
 name                     : &name "Dongyun Kam"
 description              : &description "personal description"
