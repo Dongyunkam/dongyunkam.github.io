@@ -26,7 +26,8 @@ Education
 Experience
 ======
 * **Postdoctoral Researcher**  
-  POSTECH Institute of Artificial Intelligence, Republic of Korea  
+  POSTECH Institute of Artificial Intelligence, Republic of Korea
+  PI: Prof. Youngjoo Lee
   Aug. 2024 - Present 
 * **Visiting Researcher**  
   Dept. EECS, University of Michigan, Ann Arbor, USA  
