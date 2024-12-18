@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher at [POSTECH EPIC Lab](https://sites.google.com/view/epiclab/home).
+I am a postdoctoral researcher at [POSTECH EPIC Lab](https://sites.google.com/view/epiclab/home).
 As a hardware design engineer and researcher, I am interested in energy-efficient hardware architectures for DNN inferences and wireless communications.
 My research mainly focuses on HW developments, SW-HW co-optimizations, and ASIC implementations from the point of digital circuits.
 
