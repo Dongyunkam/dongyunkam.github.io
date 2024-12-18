@@ -16,20 +16,20 @@ I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://s
 
 Education
 ======
-* Ph.D. in Electrical Engineering, POSTECH, Republic of Korea
+* Ph.D. in Electrical Engineering, POSTECH, Republic of Korea  
   Sep. 2020 - Aug. 2024 
-* M.S. in Electrical Engineering, POSTECH, Republic of Korea
+* M.S. in Electrical Engineering, POSTECH, Republic of Korea  
   Sep. 2018 - Aug. 2020
-* B.S. in Electrical Engineering, POSTECH, Republic of Korea
+* B.S. in Electrical Engineering, POSTECH, Republic of Korea  
   Mar. 2014 - Aug. 2018 
 
 Experience
 ======
-* Postdoctoral Researcher, POSTECH Institute of Artificial Intelligence, Republic of Korea
+* Postdoctoral Researcher, POSTECH Institute of Artificial Intelligence, Republic of Korea  
   Aug. 2024 - Present 
-* Visiting Researcher, Dept. EECS, University of Michigan, Ann Arbor, USA
+* Visiting Researcher, Dept. EECS, University of Michigan, Ann Arbor, USA  
   Mar. 2023 - Sep. 2023
-* Research Assistant, Dept. Electrical Engineering, POSTECH, Republic of Korea
+* Research Assistant, Dept. Electrical Engineering, POSTECH, Republic of Korea  
   Jan. 2018 - Aug. 2024 
-* Internship, Alticast, Seoul, Republic of Korea
+* Internship, Alticast, Seoul, Republic of Korea  
   Jan. 2017 - Jun. 2017 
