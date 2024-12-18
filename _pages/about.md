@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher at [POSTECH EPIC Lab](https://sites.google.com/view/epiclab/home).
-As a hardware design engineer and researcher, I am interested in <span style="color: green"> **energy-efficient hardware architectures** </span> for DNN inferences and wireless communications.
+As a hardware design engineer and researcher, I am interested in **energy-efficient hardware architectures** `#1589F0` for DNN inferences and wireless communications.
 My research mainly focuses on **HW developments, SW-HW co-optimizations, and ASIC implementations** at the **digital circuit level**.
 
 I received the B.S., M.S., and Ph.D. degrees from POSTECH EE, Republic of Korea, in 2018, 2020, and 2024, respectively.
