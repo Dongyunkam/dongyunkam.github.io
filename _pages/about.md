@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher at EPIC lab in POSTECH.
+I am a postdoc researcher at POSTECH EPIC Lab, advised by Professor Youngjoo Lee.
