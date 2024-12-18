@@ -2,7 +2,7 @@
 title: "Massive MIMO systems with low-resolution ADCs: Baseband energy consumption vs. Symbol detection performance"
 collection: publications
 category: manuscripts
-permalink: /publication/2019-01-Massive MIMO systems with low-resolution ADCs: Baseband energy consumption vs. Symbol detection performance-1
+permalink: /publication/2019-01-Massive_MIMO_systems-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
