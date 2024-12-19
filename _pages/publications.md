@@ -3,7 +3,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-const a = https://img.shields.io/badge/DNN-000000$
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=VLWrDPgAAAAJ).
 
