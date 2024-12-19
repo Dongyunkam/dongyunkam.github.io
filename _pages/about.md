@@ -53,6 +53,7 @@ I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://s
 * **General**: C/C++/Python/Matlab/Verilog
 * **DNN frameworks**: Pytorch, Huggingface, LM-eval, TensorRT_LLM
 * **EDA tools**: Synopsys DC, ICC, ICC2, STA, VCS, Virtuoso
+* **FPGA tools**: Quartus (Intel FPGA), Vivado (Xilinx FPGA)
 
 :trophy: Awards and Honors
 ======
