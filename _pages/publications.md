@@ -21,7 +21,7 @@ _IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2024
 S. Han, J. Kim, **Dongyun Kam**, B. Y. Kong, M. Kim, Y. Kim, Y. Lee   
 [[Paper]](https://doi.org/10.1109/ISCAS58744.2024.10557942)  
 
-### [3] A 21.9 ns, 15.7 Gbps/mm2 (128, 15) BOSS FEC decoder for 5G/6G URLLC applications  
+### [3] <img src =https://img.shields.io/badge/Architecture-68BC71> <img src =https://img.shields.io/badge/ASIC-FF9E0F> A 21.9 ns, 15.7 Gbps/mm2 (128, 15) BOSS FEC decoder for 5G/6G URLLC applications  
 _IEEE International Solid-State Circuits Conference_ (**ISSCC**) 2024  
 **Dongyun Kam**, S. Yun, J. Choe, Z. Zhang, N. Lee, Y. Lee   
 [[Paper]](https://doi.org/10.1109/ISSCC49657.2024.10454363)  
