@@ -11,8 +11,13 @@ Conference papers
 
 ### [1] Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
 Accepted by IEEE **HPCA** 2025  
-**Dongyun Kam**, Myeongji Yun, Sunwoo Yoo, Seungwoo Hong, Zhengya Zhang, Youngjoo Lee  
-[[Paper]](https://arxiv.org/abs/2412.10059)
+**Dongyun Kam**, M. Yun, S. Yoo, S. Hong, Z. Zhang, and Y. Lee  
+[[Paper]](https://arxiv.org/abs/2412.10059)  
+
+### [2] Constrained sorter design using zero-one principle  
+Accepted by IEEE **HPCA** 2025  
+S. Han, J. Kim, **Dongyun Kam**, B. Y. Kong, M. Kim, Y. Kim, Y. Lee,   
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10557942)  
 
 Journal papers
 ======
