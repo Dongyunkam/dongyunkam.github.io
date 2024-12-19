@@ -115,5 +115,31 @@ S. Moon, I. Kim, **Dongyun Kam**, D. Jee, J. Choi, Y. Lee,
 
 ---
 
-[Patents]
+[International Patents]
 ======
+### [1] [PCT/KR2019/017108] Multi-bit partial sum network device for parallel SC decoder  
+Jemin Lee, Youngjoo Lee, and **Dongyun Kam**  
+
+### [2] [PCT/KR2019/015834] Polar codes decoding device and method thereof  
+Jemin Lee, Youngjoo Lee, and **Dongyun Kam**  
+
+---
+
+[Domestic Patents]
+======
+
+### [1] [등록: 10-2170785 출원: 10-2019-0077704] 병렬 SC 복호기의 멀티비트 부분합 네트워크 장치  
+이제민, 이영주, **감동윤**  
+
+### [2] [등록: 10-2115216 출원: 10-2019-0077703] 극부호 복호 장치 및 방법  
+이제민, 이영주, **감동윤**  
+
+### [3] [등록: 10-2144266 출원: 10-2019-0054843] 통신 시스템에서 폴라 코드에 기초한 디코딩 방법 및 장치  
+이제민, 이영주, **감동윤**  
+
+### [4] [출원: 10-2024-0182753] 임의의 입력/출력 제약을 가진 정렬기 설계 프레임워크
+김재희, 이영주, **감동윤**, 구형일
+
+### [5] [출원: 10-2024-0162441] 비트-슬라이스 단위 희소성과 비대칭 양자화 기술을 이용한 에너지 효율적인 딥러닝 가속기  
+**감동윤**, 윤명지, 유선우, 홍승우, 이영주
+  
