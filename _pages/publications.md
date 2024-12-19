@@ -10,7 +10,7 @@ Research categories: <img alt="" src="https://img.shields.io/badge/DNN-000000"/>
 
 ---
 
-[Conference papers]
+[Conference Papers]
 ======
 
 ### [1] Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
@@ -70,7 +70,7 @@ _IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2019
 
 ---
 
-[Journal papers]
+[Journal Papers]
 ======
 
 ### [1] A Design Framework for Cost-Efficient Sorters With Arbitrary Input/Output Constraints  
