@@ -8,6 +8,8 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 Research categories: <img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img src="https://img.shields.io/badge/Framework-A100FF"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> <img alt="" src="https://img.shields.io/badge/FPGA-A9225C"/> <img alt="" src="https://img.shields.io/badge/GPU-A5915F"/>
 
+---
+
 [Conference papers]
 ======
 
@@ -66,7 +68,6 @@ _IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2019
 **Dongyun Kam**, Y. Lee    
 <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/ISCAS.2019.8702786) 
 
----
 ---
 
 Journal papers
