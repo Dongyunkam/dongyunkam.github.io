@@ -16,8 +16,8 @@ I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://s
 
 :computer: Research Interest
 ======
-* DNN inference accelerator
-* LLM model's inference
+* Energy-efficient DNN inference accelerator
+* LLM's efficient inference
 * Error correction code (ECC) for mobile systems
 * Wireless communication systems
 * CPU/GPU/FPGA/ASIC implementation
