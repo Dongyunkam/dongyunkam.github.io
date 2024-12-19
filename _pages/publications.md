@@ -82,7 +82,7 @@ D. Park, **Dongyun Kam**, S. Yun, J. Choe, and Y. Lee
 
 ### [3] Low-latency SCL polar decoder architecture using overlapped pruning operations  
 _IEEE Transactions on Circuits and Systems I: Regular Papers_ (**TCAS-I**) 2023    
-Dongyun Kam, B. Y. Kong and Y. Lee   
+**Dongyun Kam**, B. Y. Kong and Y. Lee   
 <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2022.3230589)  
 
 ### [4] Simplified ordered statistic decoding for short-length linear block codes  
