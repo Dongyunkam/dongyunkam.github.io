@@ -15,7 +15,7 @@ _IEEE International Symposium on High-Performance Computer Architecture_ (**HPCA
 **Dongyun Kam**, M. Yun, S. Yoo, S. Hong, Z. Zhang, and Y. Lee  
 [[Paper]](https://arxiv.org/abs/2412.10059)  
 
-### [2] <img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img src="https://img.shields.io/badge/Framework-A100FF"/> Constrained sorter design using zero-one principle  
+### [2] <img src="https://img.shields.io/badge/Framework-A100FF"/> Constrained sorter design using zero-one principle  
 _IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2024  
 S. Han, J. Kim, **Dongyun Kam**, B. Y. Kong, M. Kim, Y. Kim, Y. Lee   
 [[Paper]](https://doi.org/10.1109/ISCAS58744.2024.10557942)  
