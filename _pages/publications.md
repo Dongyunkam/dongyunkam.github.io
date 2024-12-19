@@ -48,33 +48,33 @@ _IEEE Symposium on VLSI Technology and Circuits_ (**VLSI**) 2022
 
 ### [7] Design and evaluation frameworks for advanced RISC-based ternary processor  
 <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img src="https://img.shields.io/badge/Framework-A100FF"/> <img alt="" src="https://img.shields.io/badge/FPGA-A9225C"/>  
-_IEEE/ACM Design, Automation and Test in Europe__ (**DATE**) 2022  
+_IEEE/ACM Design, Automation and Test in Europe_ (**DATE**) 2022  
 **Dongyun Kam+**, J. G. Min+, J. Yoon, S. Kim, S. Kang, and Y. Lee  
 [[Paper]](https://doi.org/10.23919/DATE54114.2022.9774584)  
 
 ### [8] FPGA-based ordered statistic decoding architecture for B5G/6G URLLC IIOT networks  
 <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/FPGA-A9225C"/>  
-_IEEE Asian Solid-State Circuits Conference__ (**ASSCC**) 2021  
+_IEEE Asian Solid-State Circuits Conference_ (**ASSCC**) 2021  
 C. Kim, D. Rim, J. Choe, **Dongyun Kam**, G. Park, S. Kim, and Y. Lee   
 [[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
 
 ### [9] Low-latency polar decoder using overlapped SCL processing  
 <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/>  
-_IEEE International Conference on Acoustics, Speech and Signal Processing__ (**ICASSP**) 2021  
+_IEEE International Conference on Acoustics, Speech and Signal Processing_ (**ICASSP**) 2021  
 **Dongyun Kam**, B. Kong, Y. Lee    
-[[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
+[[Paper]](https://doi.org/10.1109/ICASSP39728.2021.9414326)  
 
 ### [10] Ultra-low-latency LDPC decoding architecture using reweighted offset min-sum algorithm  
 <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/>  
-_IEEE International Symposium on Circuits and Systems__ (**ISCAS**) 2020  
+_IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2020  
  S. Yun, **Dongyun Kam**, J. Choi, B. Kong, Y. Lee    
-[[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
+[[Paper]](https://doi.org/10.1109/ISCAS45731.2020.9181189)  
 
 ### [11] Ultra-low-latency parallel SC polar decoding architecture for 5G wireless communications  
 <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/>  
-_IEEE International Symposium on Circuits and Systems__ (**ISCAS**) 2019  
+_IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2019  
 **Dongyun Kam**, Y. Lee    
-[[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
+[[Paper]](https://doi.org/10.1109/ISCAS.2019.8702786) 
 
 
 Journal papers
