@@ -48,6 +48,12 @@ I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://s
   Jan. 2017 - Jun. 2017
 
 
+:black_nib: Skills
+======
+* General: C/C++/Python/Matlab/Verilog
+* DNN frameworks: Huggingface, LM eval, TensorRT
+* EDA tools: Synopsys DC, ICC, ICC2, STA, VCS, Virtuoso
+
 :trophy: Awards and Honors
 ======
 * <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **Best Paper Award**  
