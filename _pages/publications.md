@@ -30,17 +30,17 @@ _IEEE/ACM International Symposium on Low Power Electronics and Design_ (**ISLPED
 J. G. Min, **Dongyun Kam**, Y. Byun, G. Park, Y. Lee   
 [[Paper]](https://doi.org/10.1109/ISLPED58423.2023.10244508)  
 
-### [5] GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Network  
+### [5] <img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Network  
 _IEEE International Symposium on High-Performance Computer Architecture_ (**HPCA**) 2023  
 M. Kang, R. Hwang, J. Lee, **Dongyun Kam**, Y. Lee, M. Rhu   
 [[Paper]](https://doi.org/10.48550/arXiv.2203.00158)  
 
-### [6] A 1.1μs 1.56Gb/s/mm2 Cost Efficient Large-List SCLPolar Decoder Using Fully-Reusable LLR Buffers in 28nm CMOS Technology  
+### [6] <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> A 1.1μs 1.56Gb/s/mm2 Cost Efficient Large-List SCLPolar Decoder Using Fully-Reusable LLR Buffers in 28nm CMOS Technology  
 _IEEE Symposium on VLSI Technology and Circuits_ (**VLSI**) 2022  
 **Dongyun Kam**, B. Y. Kong, and Y. Lee  
 [[Paper]](https://doi.org/10.1109/VLSITechnologyandCir46769.2022.9830317)  
 
-### [7] Design and evaluation frameworks for advanced RISC-based ternary processor  
+### [7] <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img src="https://img.shields.io/badge/Framework-A100FF"/> <img alt="" src="https://img.shields.io/badge/FPGA-A9225C"/> Design and evaluation frameworks for advanced RISC-based ternary processor  
 _IEEE/ACM Design, Automation and Test in Europe__ (**DATE**) 2022  
 **Dongyun Kam+**, J. G. Min+, J. Yoon, S. Kim, S. Kang, and Y. Lee  
 [[Paper]](https://doi.org/10.23919/DATE54114.2022.9774584)  
