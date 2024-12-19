@@ -72,42 +72,42 @@ Journal papers
 ### [1] A Design Framework for Cost-Efficient Sorters With Arbitrary Input/Output Constraints  
 _IEEE Transactions on Circuits and Systems I: Regular Papers_ (**TCAS-I**) 2024  
 J. Kim+, S. Han+, **Dongyun Kam**, B. Y. Kong, and Y. Lee,   
-<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2024.3424450)  
+<img src="https://img.shields.io/badge/Framework-A100FF"/> [[Paper]](https://doi.org/10.1109/TCSI.2024.3424450)  
 
 ### [2] Hard-decision SCL polar decoder with weighted pruning operation for storage application  
 _IEEE Transactions on Circuits and Systems II: Express Briefs_ (**TCAS-II**) 2024  
 D. Park, **Dongyun Kam**, S. Yun, J. Choe, and Y. Lee   
-<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSII.2024.3378204)  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> [[Paper]](https://doi.org/10.1109/TCSII.2024.3378204)  
 
 ### [3] Low-latency SCL polar decoder architecture using overlapped pruning operations  
 _IEEE Transactions on Circuits and Systems I: Regular Papers_ (**TCAS-I**) 2023    
 Dongyun Kam, B. Y. Kong and Y. Lee   
-<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2022.3230589)  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2022.3230589)  
 
 ### [4] Simplified ordered statistic decoding for short-length linear block codes  
 _IEEE Communications Letters_ (**CL**) 2022    
 C. Kim, **Dongyun Kam**, S. Kim, G. Park, and Y. Lee  
-<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/LCOMM.2022.3176646)  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> [[Paper]](https://doi.org/10.1109/LCOMM.2022.3176646)  
 
 ### [5] Low-complexity and low-latency SVC decoding architecture using modified MAP-SP algorithm  
 _IEEE Transactions on Circuits and Systems I: Regular Papers_ (**TCAS-I**) 2022    
 C. Kim, **Dongyun Kam**, S. Kim, G. Park, and Y. Lee  
-<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2021.3136222)  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2021.3136222)  
 
 ### [6] Ultra-low-latency successive cancellation polar decoding architecture using tree-level parallelism  
 _IEEE Transactions on Very Large Scale Integration (VLSI) Systems_ (**TVLSI**) 2021    
 **Dongyun Kam**, H. Yoo, Y. Lee  
-<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2021.3136222)  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TVLSI.2021.3068965)  
 
 ### [7] High-throughput and low-latency digital baseband architecture for energy-efficient wireless VR systems  
 _MDPI Electronics_ 2019    
 S. Hwang, S. Moon, **Dongyun Kam**, I. Oh, Y. Lee,   
-<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2021.3136222)  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.3390/electronics8070815)  
 
-### [8] High-throughput and low-latency digital baseband architecture for energy-efficient wireless VR systems  
-_MDPI Electronics_ 2019    
+### [8] Massive MIMO systems with low-resolution ADCs: Baseband energy consumption vs. Symbol detection performance  
+_IEEE Access_ 2019    
 S. Moon, I. Kim, **Dongyun Kam**, D. Jee, J. Choi, Y. Lee,   
-<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2021.3136222)  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> [[Paper]](https://doi.org/10.1109/ACCESS.2018.2890427)  
 
 
 Patents
