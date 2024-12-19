@@ -9,6 +9,8 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 Conference papers
 ======
 
+<img alt="Python" src ="https://img.shields.io/badge/Architecture-3776AB.svg"/> <img alt="Python" src ="https://img.shields.io/badge/Chip-3776AB.svg"/>
+
 ### [1] Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
 _IEEE International Symposium on High-Performance Computer Architecture_ (**HPCA**) 2025  
 **Dongyun Kam**, M. Yun, S. Yoo, S. Hong, Z. Zhang, and Y. Lee  
