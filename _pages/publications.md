@@ -9,7 +9,9 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 Conference papers
 ======
 
-<img src =https://img.shields.io/badge/Architecture-8A2BE2/> <img alt="Python" src ="https://img.shields.io/badge/ASIC-3776AB.svg"/> <img alt="Python" src ="https://img.shields.io/badge/Framework-3776AB.svg"/>
+<img src =https://img.shields.io/badge/Architecture-8A2BE2/>
+<img src =https://img.shields.io/badge/ASIC-blue/>
+<img src =https://img.shields.io/badge/ASIC-8A2BE2/>
 
 ### [1] Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
 _IEEE International Symposium on High-Performance Computer Architecture_ (**HPCA**) 2025  
