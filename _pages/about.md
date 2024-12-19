@@ -53,6 +53,9 @@ I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://s
 * <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **Best Paper Award**  
   Samsung-POSTECH Research Center  
   Paper title: A 21.9 ns, 15.7 Gbps/mm^2 (128, 15) BOSS FEC decoder for 5G/6G URLLC applications  
+  Aug. 2024
+* <img alt="Python" src ="https://img.shields.io/badge/Honor-0ABF53.svg"/> **Post-Doc. Fellowship (PIURI)**  
+  POSTECH  
   Aug. 2024  
 * <img alt="Python" src ="https://img.shields.io/badge/Honor-0ABF53.svg"/> **POSTECHIAN Fellowship**  
   POSTECH EE  
