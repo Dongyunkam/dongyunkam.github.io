@@ -10,7 +10,7 @@ Conference papers
 ======
 
 <img src =https://img.shields.io/badge/Architecture-8A2BE2/>
-<img src =https://img.shields.io/badge/ASIC-blue/>
+<img src =https://img.shields.io/badge/ASIC-Blue/>
 <img src =https://img.shields.io/badge/ASIC-8A2BE2/>
 
 ### [1] Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
