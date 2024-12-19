@@ -70,7 +70,7 @@ _IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2019
 
 ---
 
-Journal papers
+[Journal papers]
 ======
 
 ### [1] A Design Framework for Cost-Efficient Sorters With Arbitrary Input/Output Constraints  
@@ -113,6 +113,7 @@ _IEEE Access_ 2019
 S. Moon, I. Kim, **Dongyun Kam**, D. Jee, J. Choi, Y. Lee,   
 <img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> [[Paper]](https://doi.org/10.1109/ACCESS.2018.2890427)  
 
+---
 
-Patents
+[Patents]
 ======
