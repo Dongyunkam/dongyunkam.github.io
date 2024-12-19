@@ -29,6 +29,15 @@ IEEE/ACM ISLPED 2024
 J. G. Min, **Dongyun Kam**, Y. Byun, G. Park, Y. Lee   
 [[Paper]](https://doi.org/10.1109/ISLPED58423.2023.10244508)  
 
+### [5] GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Network  
+IEEE HPCA 2023  
+M. Kang, R. Hwang, J. Lee, **Dongyun Kam**, Y. Lee, M. Rhu   
+[[Paper]](https://doi.org/10.48550/arXiv.2203.00158)  
+
+### [6] A 1.1μs 1.56Gb/s/mm2 Cost Efficient Large-List SCLPolar Decoder Using Fully-Reusable LLR Buffers in 28nm CMOS Technology  
+IEEE Symposium on VLSI Technology and circuits 2022  
+**Dongyun Kam**, B. Y. Kong, and Y. Lee  
+[[Paper]](https://doi.org/10.1109/VLSITechnologyandCir46769.2022.9830317)  
 
 Journal papers
 ======
