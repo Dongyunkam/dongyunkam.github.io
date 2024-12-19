@@ -13,7 +13,7 @@ Research categories: <img alt="" src="https://img.shields.io/badge/DNN-000000"/>
 ### [1] Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
 <img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/>  
 _IEEE International Symposium on High-Performance Computer Architecture_ (**HPCA**) 2025  
-##### **Dongyun Kam**, M. Yun, S. Yoo, S. Hong, Z. Zhang, and Y. Lee  
+**Dongyun Kam**, M. Yun, S. Yoo, S. Hong, Z. Zhang, and Y. Lee  
 [[Paper]](https://arxiv.org/abs/2412.10059)  
 
 ### [2] <img src="https://img.shields.io/badge/Framework-A100FF"/> Constrained sorter design using zero-one principle  
