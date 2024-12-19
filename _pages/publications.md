@@ -58,6 +58,25 @@ _IEEE Asian Solid-State Circuits Conference__ (**ASSCC**) 2021
 C. Kim, D. Rim, J. Choe, **Dongyun Kam**, G. Park, S. Kim, and Y. Lee   
 [[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
 
+### [9] Low-latency polar decoder using overlapped SCL processing  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/>  
+_IEEE International Conference on Acoustics, Speech and Signal Processing__ (**ICASSP**) 2021  
+**Dongyun Kam**, B. Kong, Y. Lee    
+[[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
+
+### [10] Ultra-low-latency LDPC decoding architecture using reweighted offset min-sum algorithm  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/>  
+_IEEE International Symposium on Circuits and Systems__ (**ISCAS**) 2020  
+ S. Yun, **Dongyun Kam**, J. Choi, B. Kong, Y. Lee    
+[[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
+
+### [11] Ultra-low-latency parallel SC polar decoding architecture for 5G wireless communications  
+<img alt="" src="https://img.shields.io/badge/Communication-008FC7"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/>  
+_IEEE International Symposium on Circuits and Systems__ (**ISCAS**) 2019  
+**Dongyun Kam**, Y. Lee    
+[[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
+
+
 Journal papers
 ======
 
