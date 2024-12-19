@@ -10,7 +10,7 @@ Conference papers
 ======
 
 ### [1] Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
-Accepted by __IEEE International Symposium on High-Performance Computer Architecture__ (**HPCA**) 2025  
+Accepted by _IEEE International Symposium on High-Performance Computer Architecture_ (**HPCA**) 2025  
 **Dongyun Kam**, M. Yun, S. Yoo, S. Hong, Z. Zhang, and Y. Lee  
 [[Paper]](https://arxiv.org/abs/2412.10059)  
 
