@@ -9,6 +9,9 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 Conference papers
 ======
 
+Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
+IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, NV, USA, Mar. 2025.
+
 Journal papers
 ======
 
