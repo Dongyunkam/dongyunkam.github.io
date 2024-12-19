@@ -69,5 +69,21 @@ _IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2019
 Journal papers
 ======
 
+### [1] A Design Framework for Cost-Efficient Sorters With Arbitrary Input/Output Constraints  
+_IEEE Transactions on Circuits and Systems I: Regular Papers_ (**TCAS-I**) 2024  
+J. Kim+, S. Han+, **Dongyun Kam**, B. Y. Kong, and Y. Lee,   
+<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2024.3424450)  
+
+### [2] Hard-decision SCL polar decoder with weighted pruning operation for storage application  
+_IEEE Transactions on Circuits and Systems II: Express Briefs_ (**TCAS-II**) 2024  
+D. Park, **Dongyun Kam**, S. Yun, J. Choe, and Y. Lee   
+<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSII.2024.3378204)  
+
+### [3] Low-latency SCL polar decoder architecture using overlapped pruning operations  
+_IEEE Transactions on Circuits and Systems I: Regular Papers_ (**TCAS-I**) 2024    
+Dongyun Kam, B. Y. Kong and Y. Lee   
+<img alt="" src="https://img.shields.io/badge/DNN-000000"/> <img alt="" src="https://img.shields.io/badge/Architecture-68BC71"/> <img alt="" src="https://img.shields.io/badge/ASIC-FF9E0F"/> [[Paper]](https://doi.org/10.1109/TCSI.2022.3230589)  
+
+
 Patents
 ======
