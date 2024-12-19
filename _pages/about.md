@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: :raising_hand: "Biography"
+title: ":raising_hand: Biography"
 author_profile: true
 redirect_from: 
   - /about/
