@@ -57,25 +57,25 @@ I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://s
 * <img alt="Python" src ="https://img.shields.io/badge/Honor-0ABF53.svg"/> **POSTECHIAN Fellowship**  
   POSTECH EE  
   May 2024  
-* **POSTECH EE Achievement Competition, Encouragement Award**  
+* <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **POSTECH EE Achievement Competition, Encouragement Award**  
   POSTECH BK21 Four  
   Jan. 2024  
-* **Scholarship, Human Resource Development Program for Industrial Innovation**  
+* <img alt="Python" src ="https://img.shields.io/badge/Honor-0ABF53.svg"/> **Scholarship, Human Resource Development Program for Industrial Innovation**  
   Seoul National University, Korea Institue for Advancement of Technology (KIAT)  
   Dec. 2022  
-* **IEEE SSCS Seoul Chapter Award (Best Design Award)**  
+* <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **IEEE SSCS Seoul Chapter Award (Best Design Award)**  
   International SoC Design Conference (ISOCC)  
   Oct. 2020  
-* **Special Award**  
+* <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **Special Award**  
   21st Korea Semiconductor Design Contest  
   Oct. 2020  
-* **Best Paper Award**  
+* <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **Best Paper Award**  
   Summer Annual Conference of IEIE  
   Aug. 2020  
-* **Samsung Humantech Encouragement Paper Award**  
+* <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **Samsung Humantech Encouragement Paper Award**  
   Samsung Electronics Co., Ltd.  
   Feb. 2019  
-* **Cum Laude, POSTECH EE**   
+* <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **Cum Laude, POSTECH EE**   
   Feb. 2019  
 
   
