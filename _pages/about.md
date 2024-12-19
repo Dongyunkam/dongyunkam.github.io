@@ -14,6 +14,14 @@ My research mainly focuses on **HW architectures, SW-HW co-optimizations, and AS
 I received the B.S., M.S., and Ph.D. degrees from POSTECH EE, Republic of Korea, in 2018, 2020, and 2024, respectively.
 I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://sites.google.com/view/epiclab/member/yjlee?authuser=0) while pursuing my PhD.
 
+:key: Research Interest
+======
+* DNN inference accelerator
+* LLM model's inference
+* Error correction code (ECC) for mobile systems
+* Wireless communication systems
+* CPU/GPU/FPGA/ASIC implementation
+
 :mortar_board: Education
 ======
 * **Ph.D.** in Electrical Engineering, POSTECH, Republic of Korea  
