@@ -39,6 +39,16 @@ _IEEE Symposium on VLSI Technology and Circuits_ (**VLSI**) 2022
 **Dongyun Kam**, B. Y. Kong, and Y. Lee  
 [[Paper]](https://doi.org/10.1109/VLSITechnologyandCir46769.2022.9830317)  
 
+### [7] Design and evaluation frameworks for advanced RISC-based ternary processor  
+_IEEE/ACM Design, Automation and Test in Europe__ (**DATE**) 2022  
+**Dongyun Kam+**, J. G. Min+, J. Yoon, S. Kim, S. Kang, and Y. Lee  
+[[Paper]](https://doi.org/10.23919/DATE54114.2022.9774584)  
+
+### [8] FPGA-based ordered statistic decoding architecture for B5G/6G URLLC IIOT networks  
+_IEEE Asian Solid-State Circuits Conference__ (**ASSCC**) 2021  
+C. Kim, D. Rim, J. Choe, **Dongyun Kam**, G. Park, S. Kim, and Y. Lee   
+[[Paper]](https://doi.org/10.1109/A-SSCC53895.2021.9634714)  
+
 Journal papers
 ======
 
