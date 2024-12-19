@@ -19,7 +19,7 @@ _IEEE International Symposium on High-Performance Computer Architecture_ (**HPCA
 ### [2] Constrained sorter design using zero-one principle  
 <img src="https://img.shields.io/badge/Framework-A100FF"/>  
 _IEEE International Symposium on Circuits and Systems_ (**ISCAS**) 2024  
-S. Han, J. Kim, **Dongyun Kam**, B. Y. Kong, M. Kim, Y. Kim, Y. Lee   
+S. Han, J. Kim, **Dongyun Kam**, B. Y. Kong, M. Kim, Y. Kim, Y. Lee  
 [[Paper]](https://doi.org/10.1109/ISCAS58744.2024.10557942)  
 
 ### [3] A 21.9 ns, 15.7 Gbps/mm2 (128, 15) BOSS FEC decoder for 5G/6G URLLC applications  
