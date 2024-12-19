@@ -15,9 +15,16 @@ Accepted by IEEE **HPCA** 2025
 [[Paper]](https://arxiv.org/abs/2412.10059)  
 
 ### [2] Constrained sorter design using zero-one principle  
-Accepted by IEEE **HPCA** 2025  
-S. Han, J. Kim, **Dongyun Kam**, B. Y. Kong, M. Kim, Y. Kim, Y. Lee,   
+Accepted by IEEE **ISCAS** 2024  
+S. Han, J. Kim, **Dongyun Kam**, B. Y. Kong, M. Kim, Y. Kim, Y. Lee   
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10557942)  
+
+### [3] A 21.9 ns, 15.7 Gbps/mm2 (128, 15) BOSS FEC decoder for 5G/6G URLLC applications,  
+Accepted by IEEE **ISSCC** 2024  
+**Dongyun Kam**, S. Yun, J. Choe, Z. Zhang, N. Lee, Y. Lee   
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10454363)  
+
+
 
 Journal papers
 ======
