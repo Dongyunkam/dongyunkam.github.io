@@ -42,17 +42,32 @@ Experience
 
 Awards and Honors
 ======
-* **Postdoctoral Researcher**  
-  POSTECH Institute of Artificial Intelligence, Republic of Korea  
-  PI: [Prof. Youngjoo Lee](https://sites.google.com/view/epiclab/member/yjlee?authuser=0)  
-  Aug. 2024 - Present 
-* **Visiting Researcher**  
-  Dept. EECS, University of Michigan, Ann Arbor, USA  
-  Mar. 2023 - Sep. 2023
-* **Research Assistant**  
-  Dept. Electrical Engineering, POSTECH, Republic of Korea  
-  Jan. 2018 - Aug. 2024 
-* **Internship**  
-  Alticast, Seoul, Republic of Korea  
-  Jan. 2017 - Jun. 2017 
+* **Best Paper Award**  
+  Samsung-POSTECH Research Center  
+  Paper title: A 21.9 ns, 15.7 Gbps/mm^2 (128, 15) BOSS FEC decoder for 5G/6G URLLC applications  
+  Aug. 2024  
+* **POSTECHIAN Fellowship**  
+  POSTECH EE  
+  May 2024  
+* **POSTECH EE Achievement Competition, Encouragement Award**  
+  POSTECH BK21 Four  
+  Jan. 2024  
+* **Scholarship, Human Resource Development Program for Industrial Innovation**  
+  Seoul National University, Korea Institue for Advancement of Technology (KIAT)  
+  Dec. 2022  
+* **IEEE SSCS Seoul Chapter Award (Best Design Award)**  
+  International SoC Design Conference (ISOCC)  
+  Oct. 2020  
+* **Special Award**  
+  21st Korea Semiconductor Design Contest  
+  Oct. 2020  
+* **Best Paper Award**  
+  Summer Annual Conference of IEIE  
+  Aug. 2020  
+* **Samsung Humantech Encouragement Paper Award**  
+  Samsung Electronics Co., Ltd.  
+  Feb. 2019  
+* **Cum Laude, POSTECH EE**   
+  Feb. 2019  
+
   
