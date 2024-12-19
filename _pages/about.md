@@ -54,16 +54,16 @@ I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://s
   Samsung-POSTECH Research Center  
   Paper title: A 21.9 ns, 15.7 Gbps/mm^2 (128, 15) BOSS FEC decoder for 5G/6G URLLC applications  
   Aug. 2024
-* <img alt="Python" src ="https://img.shields.io/badge/Honor-0ABF53.svg"/> **Post-Doc. Fellowship (PIURI)**  
+* <img alt="Python" src ="https://img.shields.io/badge/Fellowship-0ABF53.svg"/> **Post-Doc. Fellowship (PIURI)**  
   POSTECH  
   Aug. 2024  
-* <img alt="Python" src ="https://img.shields.io/badge/Honor-0ABF53.svg"/> **POSTECHIAN Fellowship**  
+* <img alt="Python" src ="https://img.shields.io/badge/Fellowship-0ABF53.svg"/> **POSTECHIAN Fellowship**  
   POSTECH EE  
   May 2024  
 * <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **POSTECH EE Achievement Competition, Encouragement Award**  
   POSTECH BK21 Four  
   Jan. 2024  
-* <img alt="Python" src ="https://img.shields.io/badge/Honor-0ABF53.svg"/> **Scholarship, Human Resource Development Program for Industrial Innovation**  
+* <img alt="Python" src ="https://img.shields.io/badge/Scholarship-0ABF53.svg"/> **Scholarship, Human Resource Development Program for Industrial Innovation**  
   Seoul National University, Korea Institue for Advancement of Technology (KIAT)  
   Dec. 2022  
 * <img alt="Python" src ="https://img.shields.io/badge/Award-3776AB.svg"/> **IEEE SSCS Seoul Chapter Award (Best Design Award)**  
