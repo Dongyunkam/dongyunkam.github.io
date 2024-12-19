@@ -10,7 +10,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 Conference papers
 ======
 
-Research categories: <img src =https://img.shields.io/badge/DNN-000000> <img src =https://img.shields.io/badge/Communication-008FC7> <img src =https://img.shields.io/badge/Architecture-68BC71> <img src =https://img.shields.io/badge/ASIC-FF9E0F> <img src =https://img.shields.io/badge/FPGA-A9225C> b <img src =https://img.shields.io/badge/GPU-A5915F>
+Research categories: <img alt="" src =https://img.shields.io/badge/DNN-000000> <img alt="" src =https://img.shields.io/badge/Communication-008FC7> <img alt="" src =https://img.shields.io/badge/Architecture-68BC71> <img alt="" src =https://img.shields.io/badge/ASIC-FF9E0F> <img alt="" src =https://img.shields.io/badge/FPGA-A9225C> b <img alt="" src =https://img.shields.io/badge/GPU-A5915F>
 
 ### [1] <img src =${a}> <img src =https://img.shields.io/badge/Architecture-68BC71> <img src =https://img.shields.io/badge/ASIC-FF9E0F> Panacea: Novel DNN accelerator using accuracy-preserving asymmetric quantization and energy-saving bit-slice sparsity  
 _IEEE International Symposium on High-Performance Computer Architecture_ (**HPCA**) 2025  
