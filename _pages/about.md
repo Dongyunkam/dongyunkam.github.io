@@ -38,7 +38,8 @@ I was extremely fortunate to have been advised by [Prof. Youngjoo Lee](https://s
   PI: [Prof. Youngjoo Lee](https://sites.google.com/view/epiclab/member/yjlee?authuser=0)  
   Aug. 2024 - Present 
 * **Visiting Researcher**  
-  Dept. EECS, University of Michigan, Ann Arbor, USA  
+  Dept. EECS, University of Michigan, Ann Arbor, USA
+  Advisor: [Prof. Zhengya Zhang](https://zhang.engin.umich.edu/)  
   Mar. 2023 - Sep. 2023
 * **Research Assistant**  
   Dept. Electrical Engineering, POSTECH, Republic of Korea  
