@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-54FMLKLT');</script>
+    <!-- End Google Tag Manager -->
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dongyun Kam - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.4;
+            background: #ffffff; /* Light background for the entire page */
+            color: #333;
+        }
+        /* Header section with fixed navigation */
+        header {
+            background: #000; /* Black header */
+            padding: 20px 15px;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Slight shadow for separation */
+        }
+        header nav {
+            margin-left: 400px;
+            text-align: left;
+        }
+        header nav name {
+            margin: 0 12px;
+            text-decoration: none;
+            color: #fff; /* White text for contrast */
+            font-size: 18px;
+        }
+        header nav a {
+            margin: 0 12px;
+            text-decoration: none;
+            color: #fff; /* White text for contrast */
+            font-size: 14px;
+        }
+        header nav a:hover {
+            color: #007acc;
+        }
+        /* Main content */
+        main {
+            margin: 100px auto 20px;
+            max-width: 900px;
+            padding: 20px;
+            background: #fff; /* White background for main content */
+            box-shadow: none; /* Remove shadow around the main content */
+        }
+        .profile-section {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        .profile-section img {
+            width: 150px;
+            height: auto;
+            border-radius: 0%;
+            margin-left: 10px; /* Push the image to the right */
+            margin-right: 10px; /* Push the image to the right */
+        }
+        .profile-section .intro {
+            flex: 1;
+            margin-right: 20px;
+        }
+        .profile-section h1 {
+            margin: 0;
+            font-size: 20px;
+            color: #222;
+        }
+        .profile-section p {
+            margin: 5px 0;
+            color: #666;
+            font-size: 14px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        section h2 {
+            font-size: 16px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 4px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        section ul {
+            list-style-type: disc;
+            padding-left: 18px;
+        }
+        section ul li {
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54FMLKLT"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <!-- Header -->
+    <header>
+        <nav>
+            <name>Dongyun Kam</name>
+            <a href="#about">About</a>
+            <a href="#research">Research</a>
+            <a href="#publications">Publications</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Profile Section -->
+        <div class="profile-section">
+            <img src="profile.jpg" alt="Dongyun Kam">
+            <div class="intro">
+                <h1>Dongyun Kam, Ph.D.</h1>
+                <p><strong>Postdoctoral Researcher</strong> at POSTECH Institute of Artificial Intelligence, South Korea</p>
+                <p><strong>Contact</strong>: rkaehddbs at gmail dot com</p>
+                <p><strong>CV</strong>: link (Updated in January 2025) </p>
+                <p><strong>Google scholar</strong>:<a href="https://scholar.google.com/citations?user=VLWrDPgAAAAJ&hl=ko">link</a></p>
+            </div>
+        </div>
+
+        <!-- About Section -->
+        <section id="about">
+            <h2>About</h2>
+            <p style="font-size: 14px;">
+                I am a postdoctoral researcher at POSTECH EPIC Lab. 
+                As a hardware design engineer and researcher, I am interested in energy-efficient hardware systems for DNN inferences, wireless communications, and signal processing. 
+                My research mainly focuses on HW architectures, SW-HW co-optimizations, and ASIC/FPGA implementations at the digital circuit level.
+                I received the B.S., M.S., and Ph.D. degrees from POSTECH EE, Republic of Korea, in 2018, 2020, and 2024, respectively. 
+                I was extremely fortunate to have been advised by Prof. Youngjoo Lee while pursuing my PhD.
+            </p>
+        </section>
+
+        <!-- Research Section -->
+        <section id="research">
+            <h2>Research Interests</h2>
+            <ul>
+                <li>Designing HW-friendly algorithms for large-scale DNN inference</li>
+                <li>Efficient HW architectures for AI and signal processing applications</li>
+                <li>SW/HW co-optimization</li>
+                <li>Next-generation Wireless communication systems</li>
+            </ul>
+        </section>
+
+        <!-- Publications Section -->
+        <section id="publications">
+            <h2>Selected Publications</h2>
+            <ul>
+                <li><strong>Panacea: Novel DNN accelerator...</strong> (HPCA '25)</li>
+                <li><strong>A 21.9 ns, 15.7 Gbps/mm<sup>2</sup> (128, 15) BOSS FEC decoder...</strong> (ISSCC '24)</li>
+                <li>And more...</li>
+            </ul>
+        </section>
+        <section id="publications">
+            <h2>All Publications</h2>
+            <ul>
+                <li><strong>Panacea: Novel DNN accelerator...</strong> (HPCA '25)</li>
+                <li><strong>A 21.9 ns, 15.7 Gbps/mm<sup>2</sup> (128, 15) BOSS FEC decoder...</strong> (ISSCC '24)</li>
+                <li>And more...</li>
+            </ul>
+        </section>
+        
+        <!-- Honors and Awards -->
+        <section id="awards">
+            <h2>Honors and Awards</h2>
+            <ul>
+                <li><strong>Panacea: Novel DNN accelerator...</strong> (HPCA '25)</li>
+                <li><strong>A 21.9 ns, 15.7 Gbps/mm<sup>2</sup> (128, 15) BOSS FEC decoder...</strong> (ISSCC '24)</li>
+                <li>And more...</li>
+            </ul>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2>Contact</h2>
+            <p style="font-size: 14px;">Email: rkaehddbs@postech.ac.kr</p>
+            <p style="font-size: 14px;">GitHub: <a href="https://github.com/dongyunkam" target="_blank">github.com/dongyunkam</a></p>
+        </section>
+    </main>
+</body>
+</html>
