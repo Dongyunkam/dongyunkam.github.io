@@ -1,198 +1,209 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html>
 <head>
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-54FMLKLT');</script>
-    <!-- End Google Tag Manager -->
-    
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dongyun Kam - Personal Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.4;
-            background: #ffffff; /* Light background for the entire page */
-            color: #333;
-        }
-        /* Header section with fixed navigation */
-        header {
-            background: #000; /* Black header */
-            padding: 20px 15px;
-            position: fixed;
-            width: 100%;
-            top: 0;
-            z-index: 1000;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Slight shadow for separation */
-        }
-        header nav {
-            margin-left: 400px;
-            text-align: left;
-        }
-        header nav name {
-            margin: 0 12px;
-            text-decoration: none;
-            color: #fff; /* White text for contrast */
-            font-size: 18px;
-        }
-        header nav a {
-            margin: 0 12px;
-            text-decoration: none;
-            color: #fff; /* White text for contrast */
-            font-size: 14px;
-        }
-        header nav a:hover {
-            color: #007acc;
-        }
-        /* Main content */
-        main {
-            margin: 100px auto 20px;
-            max-width: 900px;
-            padding: 20px;
-            background: #fff; /* White background for main content */
-            box-shadow: none; /* Remove shadow around the main content */
-        }
-        .profile-section {
-            display: flex;
-            justify-content: flex-start;
-            align-items: center;
-            margin-bottom: 30px;
-        }
-        .profile-section img {
-            width: 150px;
-            height: auto;
-            border-radius: 0%;
-            margin-left: 10px; /* Push the image to the right */
-            margin-right: 10px; /* Push the image to the right */
-        }
-        .profile-section .intro {
-            flex: 1;
-            margin-right: 20px;
-        }
-        .profile-section h1 {
-            margin: 0;
-            font-size: 20px;
-            color: #222;
-        }
-        .profile-section p {
-            margin: 5px 0;
-            color: #666;
-            font-size: 14px;
-        }
-        section {
-            margin-bottom: 30px;
-        }
-        section h2 {
-            font-size: 16px;
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 4px;
-            margin-bottom: 10px;
-            color: #333;
-        }
-        section ul {
-            list-style-type: disc;
-            padding-left: 18px;
-        }
-        section ul li {
-            font-size: 14px;
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
-<body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54FMLKLT"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    
-    <!-- Header -->
-    <header>
-        <nav>
-            <name>Dongyun Kam</name>
-            <a href="#about">About</a>
-            <a href="#research">Research</a>
-            <a href="#publications">Publications</a>
-            <a href="#contact">Contact</a>
-        </nav>
-    </header>
+  <!--<meta name="google-site-verification" content="-7Nk1zZNdUpUv3uY4z2NdOnsrV0IaNwzgVfoPZtGYvg" />-->
+  <!--<meta name="google-site-verification" content="tJrbM3Uji0UXppLjVTvNHyTlh_L4u_mUV3ysGOWN2Gg" />-->
+  <title>Dongyun Kam</title>
+  <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow" />
+  <link href="css/frame.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="css/controls.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="css/custom.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="js/menu.js"></script>
+    <link rel="stylesheet" href="/css/style.css" />
 
-    <!-- Main Content -->
-    <main>
-        <!-- Profile Section -->
-        <div class="profile-section">
-            <img src="profile.jpg" alt="Dongyun Kam">
-            <div class="intro">
-                <h1>Dongyun Kam, Ph.D.</h1>
-                <p><strong>Postdoctoral Researcher</strong> at POSTECH Institute of Artificial Intelligence, South Korea</p>
-                <p><strong>Contact</strong>: rkaehddbs at gmail dot com</p>
-                <p><strong>CV</strong>: link (Updated in January 2025) </p>
-                <p><strong>Google scholar</strong>:<a href="https://scholar.google.com/citations?user=VLWrDPgAAAAJ&hl=ko">link</a></p>
+  <style>
+    .menu-index {
+      color: rgb(255, 255, 255) !important;
+      opacity: 1 !important;
+      font-weight: 700 !important;
+    }
+  </style>
+  <style>
+    .center {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="menu-container"></div>
+  <div class="content-container">
+    <div class="content">
+      <div class="content-table flex-column">
+        <!-------------------------------------------------------------------------------------------->
+        <!--Start Intro-->
+        <div class="flex-row">
+          <div class="flex-item flex-column">
+            <img class="image" src="img/main.jpg" width="200" height="257" style="object-fit: contain;">
+          </div>
+          <div class="flex-item flex-column">
+            <h2 class="add-top-margin">Sehoon Kim</h2>
+            <p class="text text-medium">
+              Ph.D. Candidate in
+              <a target="_blank" href="https://bair.berkeley.edu/">BAIR</a>
+              at <a target="_blank" href="https://eecs.berkeley.edu/">UC Berkeley</a><br>
+              <b>Contact:</b> sehoonkim at berkeley dot edu <br>
+              <b>CV:</b> <a target="_blank" href="files/CV_sehoonkim.pdf">link</a> (latest update: Oct. 2024)<br>
+              <b>Advisor:</b> Prof. <a target="_blank" href="http://people.eecs.berkeley.edu/~keutzer/">Kurt Keutzer</a><br>
+              <b>Research Interests:</b>
+              Efficient Deep Learning, ML Systems, AI Agentic Systems<br>
+            </p>
+
+
+        <h3 class="add-top-margin">Education</h3>
+            <div class="edu-item">
+              <img src="img/scholar.png" width="20" height="23" style="margin-right: -10px; margin-top: -6px; color: gray">
+                <div class="flex-item flex-item-stretch-3 flex-column">
+                    <p class="text" style="margin-bottom:0; font-size: 11pt;">
+                      Ph.D. in Computer Science
+                    </p>
+                    <p class="text text-grey" style="margin:0; padding-top:0; font-size:9pt">
+                      UC Berkeley, 2020 - Present
+                    </p>
+              </div>
             </div>
+            <div class="edu-item">
+              <img src="img/scholar.png" width="20" height="23" style="margin-right: -10px; margin-top: -6px; color: gray">
+                <div class="flex-item flex-item-stretch-3 flex-column">
+                    <p class="text" style="margin-bottom:0; font-size: 11pt;">
+                      M.S. in Computer Science
+                    </p>
+                    <p class="text text-grey" style="margin:0; padding-top:0; font-size:9pt">
+                      UC Berkeley, 2020 - 2023
+                    </p>
+              </div>
+            </div>
+
+            <div class="edu-item">
+              <img src="img/scholar.png" width="20" height="23" style="margin-right: -10px; margin-top: -6px; color: gray">
+                <div class="flex-item flex-item-stretch-3 flex-column">
+                    <p class="text" style="margin-bottom:0; font-size: 11pt;">
+                      B.S. in Electrical and Computer Engineering
+                    </p>
+                    <p class="text text-grey" style="margin:0; padding-top:0; font-size:9pt">
+                      Seoul National University, 2015 - 2020
+                    </p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        </div>
+        <!--End Intro-->
+        <!-------------------------------------------------------------------------------------------->
+        <!--Start About-->
+        <div class="flex-row">
+          <div class="flex-item flex-column">
+            <h2 class="add-top-margin">About</h2>
+            <hr>
+            <p class="text">
+            I am a final year Ph.D. student in
+             <a target="_blank" href="https://bair.berkeley.edu/">Berkeley AI Research (BAIR)</a>
+             at  <a target="_blank" href="https://eecs.berkeley.edu/">EECS, UC Berkeley</a>.
+            My research spans a <b>full-stack approach to designing efficient and privacy-preserving AI solutions</b> under the supervision of Prof.
+            <a target="_blank" href="http://people.eecs.berkeley.edu/~keutzer/">Kurt Keutzer</a>.
+            More specifically, my research interests lie in:
+            <ul style="margin : 0; padding-top:0; margin-bottom:0;">
+              <li>Efficient and hardware-aware model architectures</li>
+              <li>Model compression and optimization techniques for low-cost inference (e.g. quantization and pruning)</li>
+              <li>Algorithms and systems for efficient model training and inference</li>
+              <li>Hardware-software co-design and co-optimization</li>
+            </ul>
+            </p>
+
+            <p class="text" style="margin : 0; padding-top:0;">
+            I was selected as a <b>MLCommons ML and Systems Rising Star</b> and was a finalist for the <b>NVIDIA Graduate Fellowship</b> in 2024.
+            Before joining UC Berkeley, I was an undergrad majoring in
+            <a target="_blank" href="https://ee.snu.ac.kr/en">Electrical and Computer Engineering (ECE)</a> at
+            <a target="_blank" href="https://en.snu.ac.kr/">Seoul National University</a>,
+            where I was ranked <b>1st in the entire class</b> of 2020 (overall GPA: 4.29/4.30, major GPA: 4.30/4.30).
+            In my undergrad years, I was honored to work with Prof.
+            <a target="_blank" href="https://hpcs.snu.ac.kr/~jangwoo/">Jangwoo Kim</a> on computer architectures, and
+            with Prof.
+             <a target="_blank" href="https://spl.snu.ac.kr/">Byung-Gon Chun</a> on deep learning software systems.
+            </p>
+          <div><p class="text"></p></div>
+          <div><p class="text"></p></div>
+          </div>
+        </div>
+        <!--End About-->
+        <!-------------------------------------------------------------------------------------------->
+
+        <!--Honors and Awards-->
+        <div>
+          <div class="flex-item flex-column">
+            <h2 class="add-top-margin" id="publications">Honors and Awards</h2>
+            <hr>
+            <p class="text" style="margin-bottom:0;">
+                    <a target="_blank" href="https://mlcommons.org/2024/06/2024-mlc-rising-stars/"><b>MLCommons ML and Systems Rising Star</b></a>   |   2024
+                    <br>41 Ph.D. students worldwide in the fields of ML System
+            </p>
+
+
+            <p class="text" style="margin-bottom:0;">
+                    <a target="_blank" href="https://research.nvidia.com/graduate-fellowships/2024"><b>NVIDIA Graduate Fellowship Program Finalist</b><a> | 2024
+                    <br>15 Ph.D. students worldwide in the fields of computing innovation
+            </p>
+
+            <p class="text" style="margin-bottom:0;">
+                    <a target="_blank" href="https://eng.kfas.or.kr/theme/kfaschanel/intl_scholarship_5.php"><b>KFAS Doctoral Study Abroad Scholarship</b></a> | 2020
+                    <br>Around 40 students selected nationally
+            </p>
+
+            <p class="text" style="margin-bottom:0;">
+                    <b>Kwanjeong Educational Foundation Scholarship</b> | 2017
+            </p>
+          </div>
         </div>
 
-        <!-- About Section -->
-        <section id="about">
-            <h2>About</h2>
-            <p style="font-size: 14px;">
-                I am a postdoctoral researcher at POSTECH EPIC Lab. 
-                As a hardware design engineer and researcher, I am interested in energy-efficient hardware systems for DNN inferences, wireless communications, and signal processing. 
-                My research mainly focuses on HW architectures, SW-HW co-optimizations, and ASIC/FPGA implementations at the digital circuit level.
-                I received the B.S., M.S., and Ph.D. degrees from POSTECH EE, Republic of Korea, in 2018, 2020, and 2024, respectively. 
-                I was extremely fortunate to have been advised by Prof. Youngjoo Lee while pursuing my PhD.
+        <br>
+
+        <!--Start Selected Publication-->
+        <div class="flex-row">
+          <div class="flex-item flex-column">
+            <h2 class="add-top-margin">Selected Publications</h2>
+            <hr>
+            <p class="text">
+            <a href="#publications">Click to view the full list of publications. </a>
             </p>
-        </section>
 
-        <!-- Research Section -->
-        <section id="research">
-            <h2>Research Interests</h2>
-            <ul>
-                <li>Designing HW-friendly algorithms for large-scale DNN inference</li>
-                <li>Efficient HW architectures for AI and signal processing applications</li>
-                <li>SW/HW co-optimization</li>
-                <li>Next-generation Wireless communication systems</li>
-            </ul>
-        </section>
+            <div id="selected-publications-container"></div>
+          </div>
 
-        <!-- Publications Section -->
-        <section id="publications">
-            <h2>Selected Publications</h2>
-            <ul>
-                <li><strong>Panacea: Novel DNN accelerator...</strong> (HPCA '25)</li>
-                <li><strong>A 21.9 ns, 15.7 Gbps/mm<sup>2</sup> (128, 15) BOSS FEC decoder...</strong> (ISSCC '24)</li>
-                <li>And more...</li>
-            </ul>
-        </section>
-        <section id="publications">
-            <h2>All Publications</h2>
-            <ul>
-                <li><strong>Panacea: Novel DNN accelerator...</strong> (HPCA '25)</li>
-                <li><strong>A 21.9 ns, 15.7 Gbps/mm<sup>2</sup> (128, 15) BOSS FEC decoder...</strong> (ISSCC '24)</li>
-                <li>And more...</li>
-            </ul>
-        </section>
-        
-        <!-- Honors and Awards -->
-        <section id="awards">
-            <h2>Honors and Awards</h2>
-            <ul>
-                <li><strong>Panacea: Novel DNN accelerator...</strong> (HPCA '25)</li>
-                <li><strong>A 21.9 ns, 15.7 Gbps/mm<sup>2</sup> (128, 15) BOSS FEC decoder...</strong> (ISSCC '24)</li>
-                <li>And more...</li>
-            </ul>
-        </section>
+        </div>
+        <!--End Selected Publication-->
 
-        <!-- Contact Section -->
-        <section id="contact">
-            <h2>Contact</h2>
-            <p style="font-size: 14px;">Email: rkaehddbs@postech.ac.kr</p>
-            <p style="font-size: 14px;">GitHub: <a href="https://github.com/dongyunkam" target="_blank">github.com/dongyunkam</a></p>
-        </section>
-    </main>
+        <!-------------------------------------------------------------------------------------------->
+        <!--Start Publication-->
+
+        <div class="flex-row">
+          <div class="flex-item flex-column">
+            <h2 class="add-top-margin" id="publications">Full Publications</h2>
+            <hr>
+
+            <div id="publications-container"></div>
+
+          </div>
+        </div>
+
+        <!--End Publication-->
+        <br>
+
+      </div>
+    <br>
+    <br>
+    <br>
+    </div>
+  </div>
+<script type="module" src="js/selectedPublications.js"></script>
+<!-- <script type="module" src="js/publications.js"></script> -->
 </body>
+
 </html>
