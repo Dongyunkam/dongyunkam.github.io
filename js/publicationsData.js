@@ -30,7 +30,7 @@ const publications = [
     selected: true,
   },
   {
-    imagePath: "img/thumbnails/tenary.png",
+    imagePath: "img/thumbnails/ternary.png",
     title: "Design and Evaluation Frameworks for Advanced RISC-based Ternary Processor",
     pdfLink: "https://ieeexplore.ieee.org/abstract/document/9774584",
     codeLinks: {},
@@ -40,7 +40,7 @@ const publications = [
     selected: true,
   },
  {
-    imagePath: "img/thumbnails/Mem_polar.png",
+    imagePath: "img/thumbnails/mem_polar.png",
     title: "A 1.1μs 1.56Gb/s/mm2 Cost-Efficient Large-List SCL Polar Decoder Using Fully-Reusable LLR Buffers in 28nm CMOS Technology",
     pdfLink: "https://ieeexplore.ieee.org/abstract/document/9830317",
     codeLinks: {},
