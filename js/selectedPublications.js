@@ -63,6 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const div = document.createElement("div");
     const codeLinksButton = generateCodeLinksButtons(publication.codeLinks);
     const publicationHtml = `
+		<li>
         <p class="text-large" style="margin-bottom:0;">
             <a href="${publication.pdfLink}">
                 <b>${publication.title}</b></a>
@@ -74,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
             ${publication.conference}
         </p>
         ${codeLinksButton}
-
+		</li>
     `;
     div.innerHTML = publicationHtml;
     fragment.appendChild(div);
