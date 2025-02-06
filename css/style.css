@@ -3282,7 +3282,7 @@ input[type="button"].btn-block {
 
 .edu-item {
   display: flex;
-  align-items: center; /* This aligns the items vertically in the center */
+  align-items: left; /* This aligns the items vertically in the center */
   margin-top: -3px;
 }
 
