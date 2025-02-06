@@ -75,7 +75,7 @@ hr {
 
 .menu-container {
   z-index: 2;
-  position: fixed;
+  position: relative;
   width: 100%;
   background-color: #212121;
   min-width: 300px;
