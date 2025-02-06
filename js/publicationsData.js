@@ -30,7 +30,7 @@ const publications = [
     selected: true,
   },
   {
-    imagePath: "img/thumbnails/ART-9.png",
+    imagePath: "img/thumbnails/tenary.png",
     title: "Design and Evaluation Frameworks for Advanced RISC-based Ternary Processor",
     pdfLink: "https://ieeexplore.ieee.org/abstract/document/9774584",
     codeLinks: {},
