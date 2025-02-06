@@ -35,7 +35,7 @@ const publications = [
     pdfLink: "https://ieeexplore.ieee.org/abstract/document/9774584",
     codeLinks: {},
     authors:
-      "<b>Dongyun Kam*</b>, Jung Gyu Min, Jongho Yoon, Sunmean Kim, Seokhyeong Kang, Youngjoo Lee",
+      "<b>Dongyun Kam*</b>, Jung Gyu Min*, Jongho Yoon, Sunmean Kim, Seokhyeong Kang, Youngjoo Lee",
     conference: "Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022",
     selected: true,
   },
