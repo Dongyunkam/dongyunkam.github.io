@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     Code: "/img/icons/github.png",
     Talk: "/img/icons/youtube.png",
     Blog: "/img/icons/blog.png",
-    Slides: "img/icons/presentation.png"
+    Slides: "img/icons/presentation.png",
   };
 
   // Function to generate code links buttons with icons if applicable
