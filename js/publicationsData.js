@@ -4,7 +4,7 @@ const publications = [
     title: "Panacea: Novel DNN Accelerator using Accuracy-Preserving Asymmetric Quantization and Energy-Saving Bit-Slice Sparsity",
     pdfLink: "https://arxiv.org/abs/2412.10059",
     codeLinks: {
-      Slides: "../img/icons/presentation.png",
+      Slides: "../files/HPCA25_slides.pdf",
     },
     authors:
       "<b>Dongyun Kam</b>, Myeongji Yun, Sunwoo Yoo, Seungwoo Hong, Zhengya Zhang, Youngjoo Lee",
