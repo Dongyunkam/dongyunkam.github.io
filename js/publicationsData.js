@@ -8,14 +8,16 @@ const publications = [
     },
     authors:
       "<b>Dongyun Kam</b>, Myeongji Yun, Sunwoo Yoo, Seungwoo Hong, Zhengya Zhang, Youngjoo Lee",
-    conference: "Accepted by HPCA, 2025",
+    conference: "IEEE International Symposium on High-Performance Computer Architecture (HPCA-31), 2025",
     selected: true,
   },
   {
     imagePath: "img/thumbnails/boss.png",
     title: "A 21.9 ns 15.7 Gbps/mm² (128, 15) BOSS FEC Decoder for 5G/6G URLLC Applications",
     pdfLink: "https://ieeexplore.ieee.org/abstract/document/10454363",
-    codeLinks: {},
+    codeLinks: {
+      Slides: "../files/ISSCC24_slides.pdf",
+    },
     authors:
       "<b>Dongyun Kam</b>, Sangbu Yun, Jeongwon Choe, Zhengya Zhang, Namyoon Lee, Youngjoo Lee",
     conference: "IEEE International Solid-State Circuits Conference (ISSCC), 2024",
