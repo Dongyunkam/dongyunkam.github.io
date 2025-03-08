@@ -47,7 +47,9 @@ const publications = [
     imagePath: "img/thumbnails/mem_polar.png",
     title: "A 1.1μs 1.56Gb/s/mm2 Cost-Efficient Large-List SCL Polar Decoder Using Fully-Reusable LLR Buffers in 28nm CMOS Technology",
     pdfLink: "https://ieeexplore.ieee.org/abstract/document/9830317",
-    codeLinks: {},
+    codeLinks: {
+      Slides: "../files/VLSI22_slides.pdf",
+    },
     authors:
       "<b>Dongyun Kam</b>, Byeong Yong Kong, Youngjoo Lee",
     conference: "IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), 2022",
