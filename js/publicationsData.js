@@ -37,7 +37,9 @@ const publications = [
     imagePath: "img/thumbnails/ternary.png",
     title: "Design and Evaluation Frameworks for Advanced RISC-based Ternary Processor",
     pdfLink: "https://ieeexplore.ieee.org/abstract/document/9774584",
-    codeLinks: {},
+    codeLinks: {
+      Slides: "../files/DATE22_slides.pdf",
+    },
     authors:
       "<b>Dongyun Kam*</b>, Jung Gyu Min*, Jongho Yoon, Sunmean Kim, Seokhyeong Kang, Youngjoo Lee",
     conference: "Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022",
